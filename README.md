@@ -4,8 +4,8 @@
 
 ![JuYeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuYeong-Lee&show_icons=true&theme=cobalt)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuYeong-Lee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-####🔭 I'm currently major on Computer Science Engineering
-####📫 How to reach me: lge2515@naver.com
+- 🔭 I'm currently major on Computer Science Engineering
+- 📫 How to reach me: lge2515@naver.com
 <!--
 **JuYeong-Lee/JuYeong-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
